@@ -1,0 +1,13 @@
+build/
+public/
+**/node_modules/
+*.config.js
+*.config.json
+*.config.ts
+*.config.yaml
+*.config.yml
+.*lintrc.js
+.*lintrc.json
+.*lintrc.yaml
+.*lintrc.yml
+.*lintrc.ts
