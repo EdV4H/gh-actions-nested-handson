@@ -2,7 +2,7 @@
   "name": "vite-react-template",
   "private": true,
   "version": "0.0.0",
-  "engine": {
+  "engines": {
     "node": ">=18.0.0"
   },
   },
